@@ -11,18 +11,43 @@ export default function Letter() {
     const [currentText, setCurrentText] = useState("")
     const [showCursor, setShowCursor] = useState(true)
 
-    const letterText = `My Dearest Madam Jii,
+    const letterText = `🎉 Happy Birthday, Madam Arushi Jii – The Queen of Chaos & Calm! 🎂👑
 
-On this very special day, I want you to know how incredibly grateful I am to have you in my life. Your birthday isn't just a celebration of another year - it's a celebration of all the joy, laughter, and beautiful memories you bring to this world.
+Arushi,
+Aaj sirf ek birthday nahi hai…
+Aaj us insan ka din hai jo
+gussa bhi karti hai, samjha bhi deti hai,
+daantti bhi hai, par sabse zyada sambhaalti hai. 😌💖
 
-You have this amazing ability to light up any room you enter, to make people smile even on their darkest days, and to spread kindness wherever you go. Your heart is pure gold, and your spirit is absolutely infectious.
+Tere jaise dost milna matlab jackpot lagna 🎰
+Tu wo combination hai jisme logic bhi hai, emotion bhi...
+aur ek alag hi level ka "attitude" bhi. 😎🔥
 
-Thank you for being the wonderful, amazing, absolutely fantastic person that you are. The world is so much brighter because you're in it.
+Kabhi kabhi lagta hai tu mere dimaag ki Google Assistant hai –
+sab samajh jaati hai bina pooche,
+aur jab main ulta sidha bolta hoon,
+toh “shut up” kehke reset bhi kar deti hai! 😆
 
-Happy Birthday, beautiful soul! 🎂✨
+Tu sirf meri dost nahi –
+Tu ek poori vibe hai 💫
+Jab tu hoti hai, toh har cheez thodi aur real,
+thodi aur fun, aur thodi zyada matlab waali lagti hai.
 
-With all my love and warmest wishes,
-Forever Yours 💕`
+Aaj ke din main dua karta hoon ki
+🪄 har wo khushi tujhe mile jo tu deserve karti hai,
+🌈 har raasta tujhe tere sapno tak le jaye,
+aur
+💥 tere jaisa attitude kabhi dull na ho — kyunki tu raw, real & rare hai.
+
+💌 Toh Arushi –
+
+Yeh din enjoy kar, mast reh, aur yaad rakh –
+teri hassi priceless hai,
+teri vibes limitless hai,
+aur tu… timeless hai.
+
+🎂 Happy Birthday, Rockstar! 🎂
+Stay shining. Stay savage. Stay YOU. 💖`
 
     useEffect(() => {
         if (showText) {
