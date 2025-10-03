@@ -1,4 +1,4 @@
-"use client"
+tifu"use client"
 
 import { motion } from "motion/react"
 import { Camera, ArrowRight } from "lucide-react"
@@ -43,9 +43,9 @@ export default function PhotoGallery({ onNext }) {
                 </motion.div>
 
                 <h1 className="text-4xl md:text-6xl py-1 md:py-2 font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-purple-400 to-indigo-400 mb-6">
-                Moments with You 
+                beautiful queen 👑 
                 </h1>
-                <p className="text-xl text-purple-300">Beautiful moments with Madam Jii 📸</p>
+                <p className="text-xl text-purple-300">Beautiful Pic 📸</p>
             </motion.div>
 
             {/* Cube Gallery */}
